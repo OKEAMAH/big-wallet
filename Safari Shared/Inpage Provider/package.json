@@ -15,7 +15,7 @@
     "author": "lil org <yo@lil.org>",
     "license": "CC0-1.0",
     "dependencies": {
-        "buffer": "^5.6.0",
+        "buffer": "^6.0.3",
         "events": "^3.2.0",
         "isutf8": "^3.1.1"
     },
