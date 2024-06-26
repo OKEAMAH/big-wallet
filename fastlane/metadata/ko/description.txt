@@ -1,0 +1,7 @@
+Big Wallet은 사파리 확장 기능이 있는 오픈 소스 암호화폐 지갑입니다. 
+
+사파리에서 어느 웹사이트에서든지 Metamask 버튼 클릭으로 지갑을 연결하세요.
+
+Ethereum, Zora, Base, Polygon, Binance Smart Chain, Optimism, Arbitrum, Avalanche, 등 다양한 네트워크를 지원합니다!
+
+키체인에서 안전하게 지갑을 보관합니다.

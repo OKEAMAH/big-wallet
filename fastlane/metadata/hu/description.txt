@@ -1,0 +1,7 @@
+A Big Wallet egy nyílt forráskódú kriptopénz tárcsával és Safari bővítménnyel rendelkezik
+
+Csatlakoztassa a tárcát bármilyen Safari weboldalhoz a Metamask gombra kattintva
+
+Támogatja az Ethereum, Zora, Base, Polygon, Binance Smart Chain, Optimism, Arbitrum, Avalanche, és még több hálózatot!
+
+A tárcák biztonságosan letárolva a kulcstáron

@@ -1,0 +1,7 @@
+Big Wallet是一个带有Safari扩展的开源加密钱包
+
+通过点击Metamask按钮在Safari的任何网站上连接钱包
+
+支持以太坊，Zora，BASE，Polygon，币安智能链，Optimism，Arbitrum，Avalanche等等！
+
+钱包的密钥安全存储在钥匙链中

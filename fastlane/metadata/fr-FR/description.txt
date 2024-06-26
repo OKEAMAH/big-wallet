@@ -1,0 +1,7 @@
+Big Wallet est un portefeuille crypto open source avec une extension Safari
+
+Connectez un portefeuille sur n'importe quel site dans Safari en cliquant sur un bouton Metamask
+
+Supporte Ethereum, Zora, Base, Polygon, Binance Smart Chain, Optimism, Arbitrum, Avalanche, et plus encore!
+
+Les portefeuilles sont stockés en toute sécurité dans un porte-clés

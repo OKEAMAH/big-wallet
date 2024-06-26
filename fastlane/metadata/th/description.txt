@@ -1,0 +1,7 @@
+big wallet เป็นกระเป๋าสตางค์ crypto โอเพ่นซอร์สที่มีส่วนขยายสำหรับ safari 
+
+เชื่อมต่อกระเป๋าสตางค์ได้บนเว็บไซต์ใดๆใน safari โดยการคลิกที่ปุ่ม metamask 
+
+รองรับ ethereum, zora, base, polygon, binance smart chain, optimism, arbitrum, avalanche, และอื่นๆอีกมากมาย!
+
+กระเป๋าสตางค์ถูกเก็บเข้า keychain อย่างปลอดภัย

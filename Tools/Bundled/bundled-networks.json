@@ -150,6 +150,11 @@
     "o" : true,
     "s" : "ETH"
   },
+  "690" : {
+    "b" : "https://explorer.redstone.xyz",
+    "n" : "Redstone",
+    "s" : "ETH"
+  },
   "1001" : {
     "b" : "https://scope.klaytn.com",
     "n" : "Klaytn Baobab",
@@ -333,6 +338,12 @@
     "s" : "MATIC",
     "t" : true
   },
+  "80002" : {
+    "b" : "https://www.oklink.com/amoy",
+    "n" : "Amoy",
+    "s" : "MATIC",
+    "t" : true
+  },
   "84531" : {
     "b" : "https://goerli.basescan.org",
     "n" : "Base Goerli",
@@ -344,6 +355,11 @@
     "n" : "Base Sepolia",
     "s" : "ETH",
     "t" : true
+  },
+  "167000" : {
+    "b" : "https://taikoscan.io",
+    "n" : "Taiko Mainnet",
+    "s" : "ETH"
   },
   "421613" : {
     "b" : "https://goerli.arbiscan.io",
@@ -368,6 +384,11 @@
     "n" : "Scroll",
     "o" : true,
     "s" : "ETH"
+  },
+  "810180" : {
+    "b" : "https://explorer.zklink.io",
+    "n" : "zkLink Nova Mainnet",
+    "s" : "ETH",
   },
   "7777777" : {
     "b" : "https://explorer.zora.energy",
@@ -406,7 +427,7 @@
   },
   "666666666" : {
     "n" : "Degen Chain",
-    "s" : "DEGEN",
+    "s" : "DEGEN"
   },
   "999999999" : {
     "b" : "https://sepolia.explorer.zora.energy",
